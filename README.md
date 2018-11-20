@@ -1,1 +1,1 @@
-#Scripts
+## Useful script for unix systems and scripts ubuntu
